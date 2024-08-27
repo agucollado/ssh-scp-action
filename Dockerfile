@@ -1,4 +1,4 @@
-FROM alpine
+FROM  ghcr.io/appleboy/drone-scp:1.6.14
 
 LABEL "maintainer"="maddox <a.najafizadeh@najafizadeh.com>"
 LABEL "repository"="https://github.com/alinz/actions"
